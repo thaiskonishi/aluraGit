@@ -1,0 +1,15 @@
+1-SHA1(secure hash algorithm)
+É um conjunto de funções hash criptográficas projetadas pela NSA
+
+Git Bash-posso configurar o tema,etc ...
+
+2-Objetos fundamentais
+
+3-Sistema distribuido
+4-Segurança
+
+git init 
+git add
+git commit
+
+Criando um repositório 
